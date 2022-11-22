@@ -19,7 +19,7 @@
     "@storybook/addon-actions": "^5.3.13",
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
-    "@storybook/svelte": "^5.3.13",
+    "@storybook/svelte": "^6.5.13",
     "babel-loader": "^8.0.6",
     "svelte": "^3.18.2",
     "svelte-loader": "^2.13.6"
